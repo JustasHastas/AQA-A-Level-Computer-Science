@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"lentos_dydis"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"g",
+				"galimi_ejimai"
+			],
+			[
+				"ga",
+				"galimi_x_koord_ejimai"
+			],
+			[
+				"gali",
+				"galimi_x_koord_ejimai"
+			],
+			[
+				"tar",
+				"target_cell"
+			],
+			[
+				"ta",
+				"target_x"
+			],
+			[
+				"p",
+				"p_judejimas"
+			],
+			[
+				"loc",
+				"location_x"
+			],
+			[
+				"b",
+				"board_letters"
+			],
+			[
+				"display",
+				"displayRules"
+			],
+			[
+				"pl",
+				"player2"
+			],
+			[
+				"play",
+				"player1"
+			],
+			[
+				"player",
+				"playerTurn"
+			],
+			[
+				"score",
+				"score1"
+			],
+			[
+				"cu",
+				"cumulativeScore"
+			],
+			[
+				"an",
+				"antoherGo"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"d",
+				"die2"
+			],
+			[
+				"di",
+				"die1"
+			],
+			[
+				"co",
+				"comulativeScore"
+			],
+			[
+				"str",
+				"stringed_float_number"
+			],
+			[
+				"s",
+				"stringed_float_number"
+			],
+			[
+				"f",
+				"float_number"
+			],
+			[
+				"r",
+				"rounded1float"
+			],
+			[
+				"fo",
+				"float_"
+			],
+			[
+				"nu",
+				"number2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "chess_example.py",
+			"settings":
+			{
+				"buffer_size": 1315,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "boksto_judejimas.py",
+			"settings":
+			{
+				"buffer_size": 2369,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"python -u \"D:\\Users\\User\\Desktop\\Pamokos\\Chapter 5 - Subroutines.py\"",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/User/Desktop/Pamokos",
+		"/D/Users/User/Desktop/Pamokos/section_1",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_1_programming_basics",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_2_selection",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_3_iteration",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_5_subroutines"
+	],
+	"file_history":
+	[
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_3_iteration/1.iteration.py",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_2_selection/1.conditional_statement.py",
+		"/D/Users/User/Desktop/Pamokos/section_2/chess_game/Chess_game.py",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_1_programming_basics/1.programming_basics.py",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_1_programming_basics/2.data_types.py",
+		"/D/Users/User/Desktop/Pamokos/object_based_programming.py",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_1_programming_basics/3.data_structure.py",
+		"/D/Users/User/Desktop/Pamokos/chess_example",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_1_programming_basics/4.datatypes_import_module.py",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_5_subroutines/1.example.py",
+		"/D/Users/User/Desktop/Pamokos/pavyzdinis_modulis.py",
+		"/D/Users/User/Desktop/Pamokos/section_1/chapter_6_files_and_exception_handling/4.exception_handling.py",
+		"/D/Users/User/Desktop/Pamokos/notes.txt",
+		"/D/Users/User/Desktop/Pamokos/section_2/chapter_8/hierarchy_charts.py",
+		"/D/Users/User/Desktop/Pamokos/section_2/chapter_8/designing_structured_programs.py",
+		"/D/Users/User/Desktop/Pamokos/section_2/chapter_8/block_structured_language.py",
+		"/D/Users/User/Desktop/Pamokos/section_2/chapter_8/the_structured_approach.py",
+		"/D/Users/User/Desktop/Pamokos/section_2/chapter_7/strategies_for_problem_solving.py",
+		"/D/Users/User/Desktop/Pamokos/section_2/chapter_7/stages_in_software_development.py",
+		"/D/Users/User/Desktop/Pamokos/justo_dictionary_programa.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_3_iteration/1.iteration.py",
+		"/D/Users/User/Desktop/Pamokos/math_in_python.py",
+		"/D/Users/User/Desktop/Pamokos/test.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_6_files_and_exception_handling/Chapter_6_-_Files_and_exception_handling.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_6_files_and_exception_handling/4.exception_handling.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_6_files_and_exception_handling/3.overwriting_text_in_existing_file.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_6_files_and_exception_handling/2.reading_from_a_text_file.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_6_files_and_exception_handling/1.writing_to_a_text_file.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5_subroutines/1.subroutines.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5_subroutines/the_dice_game/The_dice_game (2).py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5_subroutines/the_dice_game/the_dice_game.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5/4.example.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5/3.example.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5/2.example.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5/1.subroutines.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_5/1.example.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_3/1.iteration.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_3/2.selection.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_2/1.conditional_statement.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_2/Chapter 2 - Selection.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_2/Chapter 2 - Iteration.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_2/1.iteration",
+		"/D/Users/User/Desktop/Pamokos/chapter_2/Chapter 2 - Iteration",
+		"/D/Users/User/Desktop/Pamokos/chapter_2/Chapter 2 - Conditional Statement.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_1/string_conversions.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_1/datatypes.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_1/data_types.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_1/chapter1 Programming basics.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_1/Data Structres.py",
+		"/D/Users/User/Desktop/Pamokos/Data Structres.py",
+		"/D/Users/User/Desktop/Pamokos/Chapter_6_-_Files_and_exception_handling.py",
+		"/D/Users/User/Desktop/Pamokos/chapter_3/string_conversions.py",
+		"/D/Users/User/Desktop/Pamokos/exception_handling.py",
+		"/D/Users/User/Desktop/Pamokos/writing_to_a_text_file.py",
+		"/D/Users/User/Desktop/Pamokos/the_dice_game/the_dice_game.py",
+		"/D/Users/User/Desktop/Pamokos/Chapter 5 - Subroutines.py",
+		"/D/Users/User/Desktop/Pamokos/Chapter 2 - Selection.py",
+		"/D/Users/User/Desktop/Pamokos/Chapter 2 - Iteration",
+		"/D/Users/User/Desktop/Pamokos/Chapter1 Programming basics.py",
+		"/D/Users/User/Desktop/Pamokos/reading_from_a_text_file.py",
+		"/D/Users/User/Desktop/Pamokos/overwriting_text_in_existing_file.py",
+		"/D/Users/User/Desktop/Pamokos/Chapter 2 - Conditional Statement.py",
+		"/D/Users/User/Desktop/Pamokos/Chapter 2 - Conditional Statement"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"append",
+			"append.",
+			"for",
+			"ciklas",
+			"cycle",
+			"subroutine",
+			"subroutines",
+			"bat",
+			"subroutine",
+			"subroutines",
+			"int",
+			"dict*",
+			"except",
+			"displayRu",
+			"display",
+			"input",
+			"KINTAMAS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"kintamas"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "chess_example.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1072,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "boksto_judejimas.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1521,
+								1521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 54.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "aqa_a_level_computer_science.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

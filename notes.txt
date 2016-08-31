@@ -1,0 +1,41 @@
+Traceback (most recent call last):
+  File "The_dice_game.py", line 113, in <module>
+    option = menuChoise()
+  File "The_dice_game.py", line 48, in menuChoise
+    while choise <1 or choise >3:
+TypeError: unorderable types: str() < int()
+
+Negalejo kompiuteris lyginti string su integer. Del to reikejo pakeisti input() i int
+
+
+
+
+Traceback (most recent call last):
+  File "The_dice_game.py", line 120, in <module>
+    playGame()
+  File "The_dice_game.py", line 103, in playGame
+    while score < 50 and score2 < 50:
+UnboundLocalError: local variable 'score2' referenced before assignment
+
+Turejo buti du kintamieji - score1 ir score2. 
+Vietoj to buvo sukurti tris kintamieji.
+
+s
+
+Traceback (most recent call last):
+  File "The_dice_game.py", line 120, in <module>
+    playGame()
+  File "The_dice_game.py", line 104, in playGame
+    score1 = playerTurn(player1, score1)
+  File "The_dice_game.py", line 66, in playerTurn
+    while antoherGo == ("Y") or anotherGo == ("y"):
+UnboundLocalError: local variable 'antoherGo' referenced before assignment
+
+Rasybos klaida, antoherGo vietoj anotherGo
+
+
+
+
+Bugas, nekeicia zaidejo.
+Zaidejo nekeite nes...
+Pataisiau...
